@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="tw">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <link href="https://fonts.googleapis.com/css?family=Material+Icons|Noto+Sans+TC|Open+Sans|Roboto&display=swap"
+    rel="stylesheet">
+  <link rel=stylesheet type="text/css" href="css.css">
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <title>THEF2E-01</title>
+</head>
+
+<body>
+  <div id="clock">
+    <div id="water">
+      <div style="height:50vh">
+        <svg viewBox="0 0 391.5 310" id=svgclick>
+          <g xmlns="http://www.w3.org/2000/svg">
+            <path class="st0"
+              d="M131.6,42.6l28.1,31.3c-8.6,7.8-21.9,7.1-29.7-1.6c-5.6-6.3-7-15.3-3.4-23C127.8,46.8,129.5,44.5,131.6,42.6   L131.6,42.6z" />
+            <path class="st1" d="M115.7,84.5c0,0-28.5,14.1-44.3,57.2" />
+            <circle class="st2" cx="68.8" cy="152" r="2.5" />
+            <text transform="matrix(0.7314 -0.682 0.682 0.7314 12.2874 111.3623)" class="st2 st4 st5">POMODORO</text>
+            <circle class="st6" cx="198.7" cy="192" r="96.1" />
+            <circle class="st7" cx="198.7" cy="192" r="107.5" />
+          </g>
+        </svg>
+        <div id="splay"><i class="material-icons">play_arrow</i></div>
+        <div id="spause"><i class="material-icons">pause</i></div>
+      </div>
+      <div id=clickdigi>25:00</div>
+      <svg height="30" width=100%>
+        <g xmlns="http://www.w3.org/2000/svg">
+          <line class="st11" x1="5%" y1="0" x2="95%" y2="0" />
+        </g>
+      </svg>
+      <div id=clicktext>the First thing to do</div>
+    </div>
+  </div>
+
+  <div id="content">
+    <ul id=menu>
+      <li style="color:#F44336"><i class="material-icons">assignment</i>TO DO LIST</li>
+      <li><i class="material-icons">poll</i>ANALYTICS</li>
+      <li><i class="material-icons">library_music</i>SETTING</li>
+    </ul>
+    <div id="newadd" style="margin-bottom:40px">
+      <input type="text" id="job" placeholder="ADD A NEW MISSION...">
+      <i class="material-icons" id=jobadd>add</i>
+    </div>
+    <div id=table>
+      <div class="tbhead">TO DO</div>
+      <div class="list">THE SECOND THING TO DO TODAY<i class="material-icons">play_circle_filled</i></div>
+      <div class="list">THE THIRD THING TO DO TODAY<i class="material-icons">play_circle_filled</i></div>
+      <div class="list">THE FORTH THING TO DO TODAY<i class="material-icons">play_circle_filled</i></div>
+    </div>
+  </div>
+  <script src="loki.js"></script>
+</body>
+
+</html>

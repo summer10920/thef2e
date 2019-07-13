@@ -1,0 +1,165 @@
+body,
+input {
+  font-family: "Open Sans", "Roboto", "Noto Sans TC", sans-serif;
+  margin: 0;
+  font-size: 24px;
+  overflow: hidden;
+}
+#clock {
+  color: white;
+  background-color: black;
+  width: 40%;
+  height: 100vh;
+  display: inline-block;
+  margin-right: -4px;
+  vertical-align: top;
+}
+#content {
+  color: black;
+  background-color: white;
+  width: 40%;
+  height: 100vh;
+  display: inline-block;
+  margin-right: -4px;
+  vertical-align: top;
+  padding: 0 10%;
+  overflow: hidden;
+}
+#svgclick {
+  margin: 20vh auto 0;
+  width: 100%;
+  height: 30vh;
+}
+#clickdigi {
+  font-size: 120px;
+  width: 100%;
+  text-align: center;
+  padding-bottom: 20px;
+  font-weight: 400;
+}
+#clicktext {
+  width: 90%;
+  text-align: center;
+  text-transform: uppercase;
+  padding: 5%;
+}
+#menu {
+  margin: 100px 0 50px 0;
+  padding: 0;
+}
+#menu li {
+  display: inline;
+  cursor: pointer;
+}
+#menu li i {
+  padding: 0 5px 0 20px;
+  vertical-align: sub;
+}
+input#job {
+  width: 80%;
+  border: 0;
+}
+/* #jobadd {
+  
+  position: relative;
+  top: -40px;
+  left: 95%;
+} */
+#table .tbhead {
+  background-color: black;
+  color: white;
+  padding: 10px 20px;
+}
+#table .list,
+#newadd {
+  color: black;
+  background-color: white;
+  padding: 20px;
+  border-bottom: 2px solid #ccc;
+}
+#table .list i,
+#jobadd {
+  padding: 5px;
+  float: right;
+  cursor: pointer;
+}
+
+#water{
+  height:0vh;
+  background-color:coral;
+}
+
+.st0 {
+  fill: #6b9b37;
+}
+.st1 {
+  fill: none;
+  stroke: #ffffff;
+  stroke-width: 4px;
+  stroke-linecap: round;
+}
+.st2 {
+  fill: #ffffff;
+}
+.st3 {
+  font-family: "Arial-BoldMT";
+}
+.st4 {
+  font-size: 21px;
+}
+.st5 {
+  letter-spacing: 2px;
+}
+.st6 {
+  fill: #f44336;
+}
+.st7 {
+  fill: none;
+  stroke: #ba000d;
+  stroke-width: 5px;
+  stroke-miterlimit: 10;
+}
+#splay,#spause {
+  position: relative;
+  top: -40vh;
+  text-align: center;
+  margin: 20vh auto 0;
+  width: 100%;
+  height: 30vh;
+}
+#splay i,#spause i{
+  font-size: 120px;
+  cursor: pointer;
+}
+#spause i{
+  color:#f44336;
+}
+.st9 {
+  font-size: 77.7448px;
+}
+.st10 {
+  letter-spacing: 7;
+}
+.st11 {
+  stroke: #ffffff;
+  stroke-width: 10px;
+  stroke-dasharray: 100%, 10%;
+  stroke-dashoffset: 0%;
+}
+.live{
+  animation:myani 3s infinite linear;
+}
+@keyframes myani {
+  from {stroke-dashoffset:0%;}
+  to {stroke-dashoffset:110%;}
+}
+
+.st12 {
+  fill: none;
+}
+.st13 {
+  font-size: 30px;
+}
+.st14 {
+  letter-spacing: 3px;
+}

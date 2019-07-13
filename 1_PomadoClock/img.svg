@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 22.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="圖層_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 391.5 613.1" style="enable-background:new 0 0 391.5 613.1;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#6B9B37;}
+	.st1{fill:none;stroke:#FFFFFF;stroke-width:4;stroke-linecap:round;}
+	.st2{fill:#FFFFFF;}
+	.st3{font-family:'Arial-BoldMT';}
+	.st4{font-size:21px;}
+	.st5{letter-spacing:2;}
+	.st6{fill:#F44336;}
+	.st7{fill:none;stroke:#BA000D;stroke-width:5;stroke-miterlimit:10;}
+	.st8{fill:#FCFCFC;}
+	.st9{font-size:77.7448px;}
+	.st10{letter-spacing:7;}
+	.st11{fill:none;stroke:#FFFFFF;stroke-width:5;stroke-miterlimit:10;}
+	.st12{fill:none;}
+	.st13{font-size:30px;}
+	.st14{letter-spacing:3;}
+</style>
+<g>
+	<path class="st0" d="M131.6,42.6l28.1,31.3c-8.6,7.8-21.9,7.1-29.7-1.6c-5.6-6.3-7-15.3-3.4-23C127.8,46.8,129.5,44.5,131.6,42.6
+		L131.6,42.6z"/>
+	<path class="st1" d="M115.7,84.5c0,0-28.5,14.1-44.3,57.2"/>
+	<circle class="st2" cx="68.8" cy="152" r="2.5"/>
+	<text transform="matrix(0.7314 -0.682 0.682 0.7314 12.2874 111.3623)" class="st2 st3 st4 st5">POMODORO</text>
+	<circle class="st6" cx="198.7" cy="192" r="96.1"/>
+	<circle class="st7" cx="198.7" cy="192" r="107.5"/>
+	<g>
+		<path class="st8" d="M238.3,202c9.5-5.5,9.5-14.5,0-20L191,154.7c-9.5-5.5-17.3-1-17.3,10v54.7c0,11,7.8,15.5,17.3,10L238.3,202z"
+			/>
+	</g>
+	<text transform="matrix(1 0 0 1 79.7999 388.8322)" class="st2 st3 st9 st10">25:00</text>
+	<line class="st11" x1="79.8" y1="418.7" x2="176.8" y2="418.7"/>
+	<rect x="14.4" y="474.1" class="st12" width="368.5" height="139"/>
+	<text transform="matrix(1 0 0 1 19.832 499.8159)"><tspan x="0" y="0" class="st2 st3 st13 st14">THE FIRST THING TO </tspan><tspan x="154.8" y="36" class="st2 st3 st13 st14">DO</tspan></text>
+</g>
+</svg>
