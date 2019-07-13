@@ -1,4 +1,4 @@
-var num=5*60; //alltime min
+var num=25*60; //alltime min
 var waterh=num;
 function padLeft(str, lenght) { //補0
   str = String(str);

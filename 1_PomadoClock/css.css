@@ -128,7 +128,7 @@ input#job {
   height: 30vh;
 }
 #splay i,#spause i{
-  font-size: 120px;
+  font-size: 150px;
   cursor: pointer;
 }
 #spause i{
